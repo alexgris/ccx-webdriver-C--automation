@@ -1,0 +1,358 @@
+2018-02-16 12:46:52,105 [13] INFO  CCXUITestsDemo.MainTests - Start Test_Create_Tender test
+2018-02-16 12:47:11,114 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that ALL TENDERS TAB on Shipper's side page was loading: 0.721 seconds.
+2018-02-16 12:47:12,649 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that ALL TENDERS GRID on Shipper's side page was loading: 0.492 seconds.
+2018-02-16 12:47:17,218 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Search Results - SHIPPER TENDERs(ALL) tab page was loading: 0.042 seconds.
+2018-02-16 12:47:22,612 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT ANALYSIS SCENARIO tab page was loading: 0.322 seconds.
+2018-02-16 12:47:27,430 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_default_analysis_scenario.png and the screenshot actual_shipper_default_analysis_scenario.png is 0.01%
+2018-02-16 12:47:38,334 [13] INFO  CCXUITestsDemo.MainTests - ANALYSIS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 12:47:38,564 [13] INFO  CCXUITestsDemo.MainTests - DEFAULT analysis is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 12:47:38,648 [13] INFO  CCXUITestsDemo.MainTests - OVERVIEW CARRIERS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 12:47:38,752 [13] INFO  CCXUITestsDemo.MainTests - OVERVIEW SCENARIOS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 12:47:38,836 [13] INFO  CCXUITestsDemo.MainTests - DEFAULT SCENARIO item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 12:47:40,270 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW CARRIERS tab page was loading: 0.268 seconds.
+2018-02-16 12:47:44,786 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> UnitPrice table page was loading: 3 seconds.
+2018-02-16 12:47:49,874 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_UnitPrice.png and the screenshot actual_shipper_OverviewCarriers_Analysis_UnitPrice.png is 0.01%
+2018-02-16 12:47:55,196 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> TotalSum table page was loading: 3 seconds.
+2018-02-16 12:48:04,989 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_TotalSum.png and the screenshot actual_shipper_OverviewCarriers_Analysis_TotalSum.png is 0.01%
+2018-02-16 12:48:06,398 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.041 seconds.
+2018-02-16 12:48:10,494 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 12:48:15,932 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_NumberOfOffers.png and the screenshot actual_shipper_OverviewCarriers_Analysis_NumberOfOffers.png is 0.01%
+2018-02-16 12:48:17,211 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 12:48:21,319 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 12:48:26,534 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_Ranking.png and the screenshot actual_shipper_OverviewCarriers_Analysis_Ranking.png is 0.08%
+2018-02-16 12:48:29,346 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - SHOW CENTS button - OVERVIEW CARRIERS tab page was loading: 0.052 seconds.
+2018-02-16 12:48:33,461 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> UnitPrice table page was loading: 3 seconds.
+2018-02-16 12:48:37,728 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 12:48:42,922 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_UnitPrice.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_UnitPrice.png is 0%
+2018-02-16 12:48:48,407 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> TotalSum table page was loading: 3 seconds.
+2018-02-16 12:48:53,654 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_TotalSum.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_TotalSum.png is 0%
+2018-02-16 12:48:56,426 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 12:49:02,758 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 12:49:07,978 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_NumberOfOffers.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_NumberOfOffers.png is 0%
+2018-02-16 12:49:09,287 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.052 seconds.
+2018-02-16 12:49:13,404 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> Ranking table page was loading: 3 seconds.
+2018-02-16 12:49:18,595 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_Ranking.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_Ranking.png is 0.07%
+2018-02-16 12:49:19,734 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW SCENARIOS tab page was loading: 0.951 seconds.
+2018-02-16 12:49:23,528 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW SCENARIOS tab - UnitPrice -> No Comparison table page was loading: 2 seconds.
+2018-02-16 12:49:28,667 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewScenarios_UnitPrice_NoComparison.png and the screenshot actual_shipper_OverviewScenarios_UnitPrice_NoComparison.png is 0.05%
+2018-02-16 12:49:28,926 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Tender level dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.041 seconds.
+2018-02-16 12:49:31,124 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that 'UnitPrice/TotalSUM' dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.042 seconds.
+2018-02-16 12:49:34,363 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that 'Amount' dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.042 seconds.
+2018-02-16 12:49:37,563 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that GRAPHICAL PANEL -> 'Overview Scenrios' tab page was loading: 0.042 seconds.
+2018-02-16 12:49:39,363 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewScenarios_GraphicalPanel.png and the screenshot actual_shipper_OverviewScenarios_GraphicalPanel.png is 0%
+2018-02-16 12:49:42,756 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT SCENARIO tab -> Lower Grid -> Toolbar update after selecting WORKSHEET page was loading: 0.043 seconds.
+2018-02-16 12:49:44,659 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT SCENARIO tab -> Lower Grid -> 'WORKSHEET' -> 'Total SUM' page was loading: 0.851 seconds.
+2018-02-16 12:49:49,998 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_DefaultScenario_LowerGrid_Worksheet_TotalSum.png and the screenshot actual_shipper_DefaultScenario_LowerGrid_Worksheet_TotalSum.png is 0%
+2018-02-16 12:49:50,278 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW SCENARIOS tab page was loading: 0.042 seconds.
+2018-02-16 12:49:51,844 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that CREATE NEW SCENARIO wizard - STEP# 1 page was loading: 0.353 seconds.
+2018-02-16 12:49:53,620 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step1.png and the screenshot actual_shipper_CreateNewScenarios_Step1.png is 0%
+2018-02-16 12:49:58,584 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 page was loading: 0.787 seconds.
+2018-02-16 12:50:00,288 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2.png and the screenshot actual_shipper_CreateNewScenarios_Step2.png is 0%
+2018-02-16 12:50:03,065 [13] INFO  CCXUITestsDemo.MainTests - ALL RULES ARE in PLACE in the 'ADD NEW RULE' dropdown on STEP#2 of 'CREATE NEW SCENARIO' wizard.
+2018-02-16 12:50:03,683 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - SELECTION OF CARRIERS form page was loading: 0.355 seconds.
+2018-02-16 12:50:23,348 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_SelectionOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_SelectionOfCarriersRule.png is 5.14%
+2018-02-16 12:50:23,505 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Selection of Carriers' rule page was loading: 0.061 seconds.
+2018-02-16 12:50:25,404 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_SelectionOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_SelectionOfCarriersRule.png is 0%
+2018-02-16 12:50:28,318 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - DROPDOWNS form page was loading: 0.368 seconds.
+2018-02-16 12:50:33,569 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_DropdownsRule.png and the screenshot actual_shipper_CreateNewScenarios_DropdownsRule.png is 0%
+2018-02-16 12:50:33,736 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Dropdowns' rule page was loading: 0.061 seconds.
+2018-02-16 12:50:35,609 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_DropdownsRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_DropdownsRule.png is 4.89%
+2018-02-16 12:50:38,489 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - PRICE LIMITS form page was loading: 0.355 seconds.
+2018-02-16 12:50:47,371 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_PriceLimitsRule.png and the screenshot actual_shipper_CreateNewScenarios_PriceLimitsRule.png is 0%
+2018-02-16 12:50:47,509 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Price Limits' rule page was loading: 0.064 seconds.
+2018-02-16 12:50:49,373 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_PriceLimitsRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_PriceLimitsRule.png is 0%
+2018-02-16 12:50:52,274 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - BEST PRICE form page was loading: 0.366 seconds.
+2018-02-16 12:51:00,749 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_BestPriceRule.png and the screenshot actual_shipper_CreateNewScenarios_BestPriceRule.png is 0%
+2018-02-16 12:51:00,927 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Best Price' rule page was loading: 0.062 seconds.
+2018-02-16 12:51:02,829 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_BestPriceRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_BestPriceRule.png is 0%
+2018-02-16 12:51:05,693 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - NUMBER of CARRIERS form page was loading: 0.348 seconds.
+2018-02-16 12:51:14,191 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_NumberOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_NumberOfCarriersRule.png is 0%
+2018-02-16 12:51:14,336 [13] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Number of Carriers' rule page was loading: 0.062 seconds.
+2018-02-16 12:51:16,195 [13] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_NumberOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_NumberOfCarriersRule.png is 4.89%
+2018-02-16 12:56:39,816 [12] INFO  CCXUITestsDemo.MainTests - Start Test_Create_Tender test
+2018-02-16 12:56:58,479 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that ALL TENDERS TAB on Shipper's side page was loading: 0.855 seconds.
+2018-02-16 12:57:00,289 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that ALL TENDERS GRID on Shipper's side page was loading: 0.766 seconds.
+2018-02-16 12:57:04,640 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Search Results - SHIPPER TENDERs(ALL) tab page was loading: 0.041 seconds.
+2018-02-16 12:57:09,765 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT ANALYSIS SCENARIO tab page was loading: 0.291 seconds.
+2018-02-16 12:57:14,563 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_default_analysis_scenario.png and the screenshot actual_shipper_default_analysis_scenario.png is 0.01%
+2018-02-16 12:57:25,453 [12] INFO  CCXUITestsDemo.MainTests - ANALYSIS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 12:57:25,683 [12] INFO  CCXUITestsDemo.MainTests - DEFAULT analysis is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 12:57:25,767 [12] INFO  CCXUITestsDemo.MainTests - OVERVIEW CARRIERS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 12:57:25,851 [12] INFO  CCXUITestsDemo.MainTests - OVERVIEW SCENARIOS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 12:57:25,935 [12] INFO  CCXUITestsDemo.MainTests - DEFAULT SCENARIO item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 12:57:27,336 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW CARRIERS tab page was loading: 0.205 seconds.
+2018-02-16 12:57:31,864 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> UnitPrice table page was loading: 3 seconds.
+2018-02-16 12:57:36,925 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_UnitPrice.png and the screenshot actual_shipper_OverviewCarriers_Analysis_UnitPrice.png is 0.01%
+2018-02-16 12:57:42,269 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> TotalSum table page was loading: 3 seconds.
+2018-02-16 12:57:51,957 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_TotalSum.png and the screenshot actual_shipper_OverviewCarriers_Analysis_TotalSum.png is 0.01%
+2018-02-16 12:57:53,398 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 12:57:57,493 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 12:58:02,641 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_NumberOfOffers.png and the screenshot actual_shipper_OverviewCarriers_Analysis_NumberOfOffers.png is 0.08%
+2018-02-16 12:58:03,951 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 12:58:08,057 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 12:58:13,241 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_Ranking.png and the screenshot actual_shipper_OverviewCarriers_Analysis_Ranking.png is 0.08%
+2018-02-16 12:58:16,044 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - SHOW CENTS button - OVERVIEW CARRIERS tab page was loading: 0.052 seconds.
+2018-02-16 12:58:20,161 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> UnitPrice table page was loading: 3 seconds.
+2018-02-16 12:58:24,419 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 12:58:29,645 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_UnitPrice.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_UnitPrice.png is 0%
+2018-02-16 12:58:35,111 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> TotalSum table page was loading: 3 seconds.
+2018-02-16 12:58:40,362 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_TotalSum.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_TotalSum.png is 0%
+2018-02-16 12:58:43,091 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 12:58:49,434 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 12:58:54,622 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_NumberOfOffers.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_NumberOfOffers.png is 0%
+2018-02-16 12:58:55,921 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 12:59:00,037 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> Ranking table page was loading: 3 seconds.
+2018-02-16 12:59:05,241 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_Ranking.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_Ranking.png is 0.07%
+2018-02-16 12:59:06,342 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW SCENARIOS tab page was loading: 0.912 seconds.
+2018-02-16 12:59:10,135 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW SCENARIOS tab - UnitPrice -> No Comparison table page was loading: 2 seconds.
+2018-02-16 12:59:15,276 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewScenarios_UnitPrice_NoComparison.png and the screenshot actual_shipper_OverviewScenarios_UnitPrice_NoComparison.png is 0.05%
+2018-02-16 12:59:15,552 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Tender level dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.042 seconds.
+2018-02-16 12:59:17,730 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that 'UnitPrice/TotalSUM' dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.041 seconds.
+2018-02-16 12:59:20,978 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that 'Amount' dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.052 seconds.
+2018-02-16 12:59:24,209 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that GRAPHICAL PANEL -> 'Overview Scenrios' tab page was loading: 0.063 seconds.
+2018-02-16 12:59:26,003 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewScenarios_GraphicalPanel.png and the screenshot actual_shipper_OverviewScenarios_GraphicalPanel.png is 0%
+2018-02-16 12:59:29,384 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT SCENARIO tab -> Lower Grid -> Toolbar update after selecting WORKSHEET page was loading: 0.043 seconds.
+2018-02-16 12:59:31,228 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT SCENARIO tab -> Lower Grid -> 'WORKSHEET' -> 'Total SUM' page was loading: 0.791 seconds.
+2018-02-16 12:59:36,316 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_DefaultScenario_LowerGrid_Worksheet_TotalSum.png and the screenshot actual_shipper_DefaultScenario_LowerGrid_Worksheet_TotalSum.png is 0.04%
+2018-02-16 12:59:36,627 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW SCENARIOS tab page was loading: 0.042 seconds.
+2018-02-16 12:59:38,197 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that CREATE NEW SCENARIO wizard - STEP# 1 page was loading: 0.357 seconds.
+2018-02-16 12:59:39,959 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step1.png and the screenshot actual_shipper_CreateNewScenarios_Step1.png is 0%
+2018-02-16 12:59:44,915 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 page was loading: 0.769 seconds.
+2018-02-16 12:59:46,646 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2.png and the screenshot actual_shipper_CreateNewScenarios_Step2.png is 0%
+2018-02-16 12:59:49,419 [12] INFO  CCXUITestsDemo.MainTests - ALL RULES ARE in PLACE in the 'ADD NEW RULE' dropdown on STEP#2 of 'CREATE NEW SCENARIO' wizard.
+2018-02-16 12:59:50,033 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - SELECTION OF CARRIERS form page was loading: 0.35 seconds.
+2018-02-16 13:00:09,541 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_SelectionOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_SelectionOfCarriersRule.png is 5.14%
+2018-02-16 13:00:09,710 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Selection of Carriers' rule page was loading: 0.062 seconds.
+2018-02-16 13:00:11,560 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_SelectionOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_SelectionOfCarriersRule.png is 0%
+2018-02-16 13:00:14,534 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - DROPDOWNS form page was loading: 0.397 seconds.
+2018-02-16 13:00:19,731 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_DropdownsRule.png and the screenshot actual_shipper_CreateNewScenarios_DropdownsRule.png is 0%
+2018-02-16 13:00:19,900 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Dropdowns' rule page was loading: 0.064 seconds.
+2018-02-16 13:00:21,804 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_DropdownsRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_DropdownsRule.png is 0%
+2018-02-16 13:00:24,686 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - PRICE LIMITS form page was loading: 0.35 seconds.
+2018-02-16 13:00:33,798 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_PriceLimitsRule.png and the screenshot actual_shipper_CreateNewScenarios_PriceLimitsRule.png is 0%
+2018-02-16 13:00:33,944 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Price Limits' rule page was loading: 0.062 seconds.
+2018-02-16 13:00:35,793 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_PriceLimitsRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_PriceLimitsRule.png is 0%
+2018-02-16 13:00:38,727 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - BEST PRICE form page was loading: 0.371 seconds.
+2018-02-16 13:00:47,321 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_BestPriceRule.png and the screenshot actual_shipper_CreateNewScenarios_BestPriceRule.png is 0%
+2018-02-16 13:00:47,458 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Best Price' rule page was loading: 0.062 seconds.
+2018-02-16 13:00:49,307 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_BestPriceRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_BestPriceRule.png is 4.89%
+2018-02-16 13:00:52,215 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - NUMBER of CARRIERS form page was loading: 0.344 seconds.
+2018-02-16 13:01:00,682 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_NumberOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_NumberOfCarriersRule.png is 0%
+2018-02-16 13:01:00,820 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Number of Carriers' rule page was loading: 0.062 seconds.
+2018-02-16 13:01:02,681 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_NumberOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_NumberOfCarriersRule.png is 4.89%
+2018-02-16 13:03:12,010 [12] INFO  CCXUITestsDemo.MainTests - Start Test_Create_Tender test
+2018-02-16 13:03:30,272 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that ALL TENDERS TAB on Shipper's side page was loading: 0.238 seconds.
+2018-02-16 13:03:32,070 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that ALL TENDERS GRID on Shipper's side page was loading: 0.755 seconds.
+2018-02-16 13:03:36,630 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Search Results - SHIPPER TENDERs(ALL) tab page was loading: 0.042 seconds.
+2018-02-16 13:03:41,863 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT ANALYSIS SCENARIO tab page was loading: 0.412 seconds.
+2018-02-16 13:03:46,788 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_default_analysis_scenario.png and the screenshot actual_shipper_default_analysis_scenario.png is 0.2%
+2018-02-16 13:03:57,722 [12] INFO  CCXUITestsDemo.MainTests - ANALYSIS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:03:57,952 [12] INFO  CCXUITestsDemo.MainTests - DEFAULT analysis is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:03:58,036 [12] INFO  CCXUITestsDemo.MainTests - OVERVIEW CARRIERS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:03:58,120 [12] INFO  CCXUITestsDemo.MainTests - OVERVIEW SCENARIOS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:03:58,204 [12] INFO  CCXUITestsDemo.MainTests - DEFAULT SCENARIO item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:03:59,638 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW CARRIERS tab page was loading: 0.26 seconds.
+2018-02-16 13:04:04,148 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> UnitPrice table page was loading: 3 seconds.
+2018-02-16 13:04:09,287 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_UnitPrice.png and the screenshot actual_shipper_OverviewCarriers_Analysis_UnitPrice.png is 0.01%
+2018-02-16 13:04:14,659 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> TotalSum table page was loading: 3 seconds.
+2018-02-16 13:04:24,488 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_TotalSum.png and the screenshot actual_shipper_OverviewCarriers_Analysis_TotalSum.png is 0.01%
+2018-02-16 13:04:25,959 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 13:04:30,066 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:04:35,303 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_NumberOfOffers.png and the screenshot actual_shipper_OverviewCarriers_Analysis_NumberOfOffers.png is 0.27%
+2018-02-16 13:04:36,633 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 13:04:40,729 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:04:46,022 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_Ranking.png and the screenshot actual_shipper_OverviewCarriers_Analysis_Ranking.png is 0.01%
+2018-02-16 13:04:48,907 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - SHOW CENTS button - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 13:04:53,023 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> UnitPrice table page was loading: 3 seconds.
+2018-02-16 13:04:57,289 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:05:02,612 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_UnitPrice.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_UnitPrice.png is 0%
+2018-02-16 13:05:08,127 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> TotalSum table page was loading: 3 seconds.
+2018-02-16 13:05:13,454 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_TotalSum.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_TotalSum.png is 0.06%
+2018-02-16 13:05:16,315 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.041 seconds.
+2018-02-16 13:05:22,689 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:05:28,031 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_NumberOfOffers.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_NumberOfOffers.png is 0.26%
+2018-02-16 13:05:29,360 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.052 seconds.
+2018-02-16 13:05:33,477 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> Ranking table page was loading: 3 seconds.
+2018-02-16 13:05:38,730 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_Ranking.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_Ranking.png is 0.07%
+2018-02-16 13:05:40,167 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW SCENARIOS tab page was loading: 0.24 seconds.
+2018-02-16 13:05:43,969 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW SCENARIOS tab - UnitPrice -> No Comparison table page was loading: 2 seconds.
+2018-02-16 13:05:49,214 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewScenarios_UnitPrice_NoComparison.png and the screenshot actual_shipper_OverviewScenarios_UnitPrice_NoComparison.png is 0.05%
+2018-02-16 13:05:49,482 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Tender level dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.041 seconds.
+2018-02-16 13:05:51,671 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that 'UnitPrice/TotalSUM' dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.042 seconds.
+2018-02-16 13:05:54,909 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that 'Amount' dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.052 seconds.
+2018-02-16 13:05:58,119 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that GRAPHICAL PANEL -> 'Overview Scenrios' tab page was loading: 0.053 seconds.
+2018-02-16 13:05:59,876 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewScenarios_GraphicalPanel.png and the screenshot actual_shipper_OverviewScenarios_GraphicalPanel.png is 0%
+2018-02-16 13:06:03,378 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT SCENARIO tab -> Lower Grid -> Toolbar update after selecting WORKSHEET page was loading: 0.043 seconds.
+2018-02-16 13:06:05,321 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT SCENARIO tab -> Lower Grid -> 'WORKSHEET' -> 'Total SUM' page was loading: 0.891 seconds.
+2018-02-16 13:06:10,546 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_DefaultScenario_LowerGrid_Worksheet_TotalSum.png and the screenshot actual_shipper_DefaultScenario_LowerGrid_Worksheet_TotalSum.png is 0%
+2018-02-16 13:06:10,867 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW SCENARIOS tab page was loading: 0.042 seconds.
+2018-02-16 13:06:12,412 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that CREATE NEW SCENARIO wizard - STEP# 1 page was loading: 0.332 seconds.
+2018-02-16 13:06:14,184 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step1.png and the screenshot actual_shipper_CreateNewScenarios_Step1.png is 0%
+2018-02-16 13:06:19,118 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 page was loading: 0.766 seconds.
+2018-02-16 13:06:20,884 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2.png and the screenshot actual_shipper_CreateNewScenarios_Step2.png is 0%
+2018-02-16 13:06:23,682 [12] INFO  CCXUITestsDemo.MainTests - ALL RULES ARE in PLACE in the 'ADD NEW RULE' dropdown on STEP#2 of 'CREATE NEW SCENARIO' wizard.
+2018-02-16 13:06:24,330 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - SELECTION OF CARRIERS form page was loading: 0.374 seconds.
+2018-02-16 13:06:44,081 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_SelectionOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_SelectionOfCarriersRule.png is 5.14%
+2018-02-16 13:06:44,258 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Selection of Carriers' rule page was loading: 0.063 seconds.
+2018-02-16 13:06:46,111 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_SelectionOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_SelectionOfCarriersRule.png is 0%
+2018-02-16 13:06:49,071 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - DROPDOWNS form page was loading: 0.396 seconds.
+2018-02-16 13:06:54,283 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_DropdownsRule.png and the screenshot actual_shipper_CreateNewScenarios_DropdownsRule.png is 0%
+2018-02-16 13:06:54,451 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Dropdowns' rule page was loading: 0.062 seconds.
+2018-02-16 13:06:56,307 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_DropdownsRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_DropdownsRule.png is 0%
+2018-02-16 13:06:59,339 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - PRICE LIMITS form page was loading: 0.478 seconds.
+2018-02-16 13:07:08,180 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_PriceLimitsRule.png and the screenshot actual_shipper_CreateNewScenarios_PriceLimitsRule.png is 0%
+2018-02-16 13:07:08,327 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Price Limits' rule page was loading: 0.062 seconds.
+2018-02-16 13:07:10,187 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_PriceLimitsRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_PriceLimitsRule.png is 0%
+2018-02-16 13:07:13,125 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - BEST PRICE form page was loading: 0.363 seconds.
+2018-02-16 13:07:21,665 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_BestPriceRule.png and the screenshot actual_shipper_CreateNewScenarios_BestPriceRule.png is 0%
+2018-02-16 13:07:21,803 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Best Price' rule page was loading: 0.063 seconds.
+2018-02-16 13:07:23,670 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_BestPriceRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_BestPriceRule.png is 0%
+2018-02-16 13:07:26,643 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - NUMBER of CARRIERS form page was loading: 0.44 seconds.
+2018-02-16 13:07:35,156 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_NumberOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_NumberOfCarriersRule.png is 0%
+2018-02-16 13:07:35,293 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Number of Carriers' rule page was loading: 0.062 seconds.
+2018-02-16 13:07:37,163 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_NumberOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_NumberOfCarriersRule.png is 4.89%
+2018-02-16 13:12:49,067 [12] INFO  CCXUITestsDemo.MainTests - Start Test_Create_Tender test
+2018-02-16 13:13:07,505 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that ALL TENDERS TAB on Shipper's side page was loading: 0.423 seconds.
+2018-02-16 13:13:09,288 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that ALL TENDERS GRID on Shipper's side page was loading: 0.739 seconds.
+2018-02-16 13:13:13,812 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Search Results - SHIPPER TENDERs(ALL) tab page was loading: 0.041 seconds.
+2018-02-16 13:13:18,985 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT ANALYSIS SCENARIO tab page was loading: 0.331 seconds.
+2018-02-16 13:13:23,852 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_default_analysis_scenario.png and the screenshot actual_shipper_default_analysis_scenario.png is 0.2%
+2018-02-16 13:13:34,753 [12] INFO  CCXUITestsDemo.MainTests - ANALYSIS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:13:34,983 [12] INFO  CCXUITestsDemo.MainTests - DEFAULT analysis is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:13:35,067 [12] INFO  CCXUITestsDemo.MainTests - OVERVIEW CARRIERS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:13:35,171 [12] INFO  CCXUITestsDemo.MainTests - OVERVIEW SCENARIOS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:13:35,255 [12] INFO  CCXUITestsDemo.MainTests - DEFAULT SCENARIO item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:13:36,360 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW CARRIERS tab page was loading: 0.92 seconds.
+2018-02-16 13:13:40,907 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> UnitPrice table page was loading: 3 seconds.
+2018-02-16 13:13:46,095 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_UnitPrice.png and the screenshot actual_shipper_OverviewCarriers_Analysis_UnitPrice.png is 0.21%
+2018-02-16 13:13:51,479 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> TotalSum table page was loading: 3 seconds.
+2018-02-16 13:14:01,292 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_TotalSum.png and the screenshot actual_shipper_OverviewCarriers_Analysis_TotalSum.png is 0.31%
+2018-02-16 13:14:02,752 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.041 seconds.
+2018-02-16 13:14:06,868 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:14:12,143 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_NumberOfOffers.png and the screenshot actual_shipper_OverviewCarriers_Analysis_NumberOfOffers.png is 0.27%
+2018-02-16 13:14:13,443 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 13:14:17,559 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:14:22,866 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_Ranking.png and the screenshot actual_shipper_OverviewCarriers_Analysis_Ranking.png is 0.01%
+2018-02-16 13:14:25,732 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - SHOW CENTS button - OVERVIEW CARRIERS tab page was loading: 0.052 seconds.
+2018-02-16 13:14:29,838 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> UnitPrice table page was loading: 3 seconds.
+2018-02-16 13:14:34,115 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:14:39,462 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_UnitPrice.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_UnitPrice.png is 0%
+2018-02-16 13:14:44,936 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> TotalSum table page was loading: 3 seconds.
+2018-02-16 13:14:50,251 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_TotalSum.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_TotalSum.png is 0.06%
+2018-02-16 13:14:53,072 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 13:14:59,405 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:15:04,667 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_NumberOfOffers.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_NumberOfOffers.png is 0%
+2018-02-16 13:15:05,998 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.052 seconds.
+2018-02-16 13:15:10,114 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> Ranking table page was loading: 3 seconds.
+2018-02-16 13:15:15,423 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_Ranking.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_Ranking.png is 0.07%
+2018-02-16 13:15:16,523 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW SCENARIOS tab page was loading: 0.901 seconds.
+2018-02-16 13:15:20,361 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW SCENARIOS tab - UnitPrice -> No Comparison table page was loading: 2 seconds.
+2018-02-16 13:15:25,604 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewScenarios_UnitPrice_NoComparison.png and the screenshot actual_shipper_OverviewScenarios_UnitPrice_NoComparison.png is 0.05%
+2018-02-16 13:15:25,891 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Tender level dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.042 seconds.
+2018-02-16 13:15:28,089 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that 'UnitPrice/TotalSUM' dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.041 seconds.
+2018-02-16 13:15:31,349 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that 'Amount' dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.063 seconds.
+2018-02-16 13:15:34,557 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that GRAPHICAL PANEL -> 'Overview Scenrios' tab page was loading: 0.052 seconds.
+2018-02-16 13:15:36,339 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewScenarios_GraphicalPanel.png and the screenshot actual_shipper_OverviewScenarios_GraphicalPanel.png is 0%
+2018-02-16 13:15:39,762 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT SCENARIO tab -> Lower Grid -> Toolbar update after selecting WORKSHEET page was loading: 0.053 seconds.
+2018-02-16 13:15:41,696 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT SCENARIO tab -> Lower Grid -> 'WORKSHEET' -> 'Total SUM' page was loading: 0.882 seconds.
+2018-02-16 13:15:46,985 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_DefaultScenario_LowerGrid_Worksheet_TotalSum.png and the screenshot actual_shipper_DefaultScenario_LowerGrid_Worksheet_TotalSum.png is 0%
+2018-02-16 13:15:47,287 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW SCENARIOS tab page was loading: 0.042 seconds.
+2018-02-16 13:15:48,835 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that CREATE NEW SCENARIO wizard - STEP# 1 page was loading: 0.335 seconds.
+2018-02-16 13:15:50,603 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step1.png and the screenshot actual_shipper_CreateNewScenarios_Step1.png is 0%
+2018-02-16 13:15:55,458 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 page was loading: 0.694 seconds.
+2018-02-16 13:15:57,246 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2.png and the screenshot actual_shipper_CreateNewScenarios_Step2.png is 0%
+2018-02-16 13:16:00,016 [12] INFO  CCXUITestsDemo.MainTests - ALL RULES ARE in PLACE in the 'ADD NEW RULE' dropdown on STEP#2 of 'CREATE NEW SCENARIO' wizard.
+2018-02-16 13:16:00,624 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - SELECTION OF CARRIERS form page was loading: 0.344 seconds.
+2018-02-16 13:16:20,293 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_SelectionOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_SelectionOfCarriersRule.png is 5.14%
+2018-02-16 13:16:20,460 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Selection of Carriers' rule page was loading: 0.061 seconds.
+2018-02-16 13:16:22,326 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_SelectionOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_SelectionOfCarriersRule.png is 0%
+2018-02-16 13:16:25,262 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - DROPDOWNS form page was loading: 0.372 seconds.
+2018-02-16 13:16:30,510 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_DropdownsRule.png and the screenshot actual_shipper_CreateNewScenarios_DropdownsRule.png is 0%
+2018-02-16 13:16:30,678 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Dropdowns' rule page was loading: 0.063 seconds.
+2018-02-16 13:16:32,536 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_DropdownsRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_DropdownsRule.png is 0%
+2018-02-16 13:16:35,390 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - PRICE LIMITS form page was loading: 0.351 seconds.
+2018-02-16 13:16:44,276 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_PriceLimitsRule.png and the screenshot actual_shipper_CreateNewScenarios_PriceLimitsRule.png is 0%
+2018-02-16 13:16:44,423 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Price Limits' rule page was loading: 0.063 seconds.
+2018-02-16 13:16:46,304 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_PriceLimitsRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_PriceLimitsRule.png is 4.89%
+2018-02-16 13:16:49,214 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - BEST PRICE form page was loading: 0.362 seconds.
+2018-02-16 13:16:57,786 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_BestPriceRule.png and the screenshot actual_shipper_CreateNewScenarios_BestPriceRule.png is 0%
+2018-02-16 13:16:57,923 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Best Price' rule page was loading: 0.052 seconds.
+2018-02-16 13:16:59,797 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_BestPriceRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_BestPriceRule.png is 0%
+2018-02-16 13:17:02,803 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - NUMBER of CARRIERS form page was loading: 0.451 seconds.
+2018-02-16 13:17:11,227 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_NumberOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_NumberOfCarriersRule.png is 0%
+2018-02-16 13:17:11,364 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Number of Carriers' rule page was loading: 0.062 seconds.
+2018-02-16 13:17:13,204 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_NumberOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_NumberOfCarriersRule.png is 4.89%
+2018-02-16 13:18:59,461 [12] INFO  CCXUITestsDemo.MainTests - Start Test_Create_Tender test
+2018-02-16 13:19:17,736 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that ALL TENDERS TAB on Shipper's side page was loading: 0.542 seconds.
+2018-02-16 13:19:19,502 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that ALL TENDERS GRID on Shipper's side page was loading: 0.722 seconds.
+2018-02-16 13:19:24,084 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Search Results - SHIPPER TENDERs(ALL) tab page was loading: 0.042 seconds.
+2018-02-16 13:19:29,369 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT ANALYSIS SCENARIO tab page was loading: 0.172 seconds.
+2018-02-16 13:19:34,209 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_default_analysis_scenario.png and the screenshot actual_shipper_default_analysis_scenario.png is 0.01%
+2018-02-16 13:19:45,103 [12] INFO  CCXUITestsDemo.MainTests - ANALYSIS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:19:45,333 [12] INFO  CCXUITestsDemo.MainTests - DEFAULT analysis is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:19:45,417 [12] INFO  CCXUITestsDemo.MainTests - OVERVIEW CARRIERS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:19:45,521 [12] INFO  CCXUITestsDemo.MainTests - OVERVIEW SCENARIOS item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:19:45,605 [12] INFO  CCXUITestsDemo.MainTests - DEFAULT SCENARIO item is avaialbale in 'Navigation' panel for shipper.
+2018-02-16 13:19:47,023 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW CARRIERS tab page was loading: 0.253 seconds.
+2018-02-16 13:19:51,548 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> UnitPrice table page was loading: 3 seconds.
+2018-02-16 13:19:56,641 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_UnitPrice.png and the screenshot actual_shipper_OverviewCarriers_Analysis_UnitPrice.png is 0.01%
+2018-02-16 13:20:01,975 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> TotalSum table page was loading: 3 seconds.
+2018-02-16 13:20:11,718 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_TotalSum.png and the screenshot actual_shipper_OverviewCarriers_Analysis_TotalSum.png is 0.12%
+2018-02-16 13:20:13,136 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 13:20:17,232 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:20:22,376 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_NumberOfOffers.png and the screenshot actual_shipper_OverviewCarriers_Analysis_NumberOfOffers.png is 0.01%
+2018-02-16 13:20:23,645 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.052 seconds.
+2018-02-16 13:20:27,752 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:20:32,960 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Analysis_Ranking.png and the screenshot actual_shipper_OverviewCarriers_Analysis_Ranking.png is 0.08%
+2018-02-16 13:20:35,762 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - SHOW CENTS button - OVERVIEW CARRIERS tab page was loading: 0.052 seconds.
+2018-02-16 13:20:39,889 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> UnitPrice table page was loading: 3 seconds.
+2018-02-16 13:20:44,155 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Analysis -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:20:49,697 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_UnitPrice.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_UnitPrice.png is 0%
+2018-02-16 13:20:55,142 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> TotalSum table page was loading: 3 seconds.
+2018-02-16 13:21:00,327 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_TotalSum.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_TotalSum.png is 0.06%
+2018-02-16 13:21:03,079 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.042 seconds.
+2018-02-16 13:21:09,393 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> Number of Offers table page was loading: 3 seconds.
+2018-02-16 13:21:14,552 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_NumberOfOffers.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_NumberOfOffers.png is 0.06%
+2018-02-16 13:21:15,841 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - NOT DEFINED dropdown - OVERVIEW CARRIERS tab page was loading: 0.052 seconds.
+2018-02-16 13:21:19,957 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW CARRIERS tab - Worksheet 'Germany' -> Ranking table page was loading: 3 seconds.
+2018-02-16 13:21:25,115 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewCarriers_Worksheet_Ranking.png and the screenshot actual_shipper_OverviewCarriers_Worksheet_Ranking.png is 0.07%
+2018-02-16 13:21:26,224 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW SCENARIOS tab page was loading: 0.93 seconds.
+2018-02-16 13:21:30,017 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that the OVERVIEW SCENARIOS tab - UnitPrice -> No Comparison table page was loading: 2 seconds.
+2018-02-16 13:21:35,143 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewScenarios_UnitPrice_NoComparison.png and the screenshot actual_shipper_OverviewScenarios_UnitPrice_NoComparison.png is 0.01%
+2018-02-16 13:21:35,400 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Tender level dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.041 seconds.
+2018-02-16 13:21:37,597 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that 'UnitPrice/TotalSUM' dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.062 seconds.
+2018-02-16 13:21:40,866 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that 'Amount' dropdown - Graphical Panel - OVERVIEW SCENARIOS tab page was loading: 0.052 seconds.
+2018-02-16 13:21:44,075 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that GRAPHICAL PANEL -> 'Overview Scenrios' tab page was loading: 0.042 seconds.
+2018-02-16 13:21:45,844 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_OverviewScenarios_GraphicalPanel.png and the screenshot actual_shipper_OverviewScenarios_GraphicalPanel.png is 0%
+2018-02-16 13:21:49,234 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT SCENARIO tab -> Lower Grid -> Toolbar update after selecting WORKSHEET page was loading: 0.043 seconds.
+2018-02-16 13:21:51,113 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that DEFAULT SCENARIO tab -> Lower Grid -> 'WORKSHEET' -> 'Total SUM' page was loading: 0.817 seconds.
+2018-02-16 13:21:56,225 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_DefaultScenario_LowerGrid_Worksheet_TotalSum.png and the screenshot actual_shipper_DefaultScenario_LowerGrid_Worksheet_TotalSum.png is 0.04%
+2018-02-16 13:21:56,540 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Toolbar - OVERVIEW SCENARIOS tab page was loading: 0.042 seconds.
+2018-02-16 13:21:58,098 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that CREATE NEW SCENARIO wizard - STEP# 1 page was loading: 0.345 seconds.
+2018-02-16 13:21:59,868 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step1.png and the screenshot actual_shipper_CreateNewScenarios_Step1.png is 0%
+2018-02-16 13:22:04,790 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 page was loading: 0.771 seconds.
+2018-02-16 13:22:06,559 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2.png and the screenshot actual_shipper_CreateNewScenarios_Step2.png is 0%
+2018-02-16 13:22:09,300 [12] INFO  CCXUITestsDemo.MainTests - ALL RULES ARE in PLACE in the 'ADD NEW RULE' dropdown on STEP#2 of 'CREATE NEW SCENARIO' wizard.
+2018-02-16 13:22:09,914 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - SELECTION OF CARRIERS form page was loading: 0.35 seconds.
+2018-02-16 13:22:29,661 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_SelectionOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_SelectionOfCarriersRule.png is 0%
+2018-02-16 13:22:29,818 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Selection of Carriers' rule page was loading: 0.061 seconds.
+2018-02-16 13:22:31,664 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_SelectionOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_SelectionOfCarriersRule.png is 0%
+2018-02-16 13:22:34,593 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - DROPDOWNS form page was loading: 0.385 seconds.
+2018-02-16 13:22:39,816 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_DropdownsRule.png and the screenshot actual_shipper_CreateNewScenarios_DropdownsRule.png is 0%
+2018-02-16 13:22:39,984 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Dropdowns' rule page was loading: 0.062 seconds.
+2018-02-16 13:22:41,867 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_DropdownsRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_DropdownsRule.png is 0%
+2018-02-16 13:22:44,752 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - PRICE LIMITS form page was loading: 0.352 seconds.
+2018-02-16 13:22:53,654 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_PriceLimitsRule.png and the screenshot actual_shipper_CreateNewScenarios_PriceLimitsRule.png is 0%
+2018-02-16 13:22:53,801 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Price Limits' rule page was loading: 0.062 seconds.
+2018-02-16 13:22:55,664 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_PriceLimitsRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_PriceLimitsRule.png is 4.89%
+2018-02-16 13:22:58,674 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - BEST PRICE form page was loading: 0.446 seconds.
+2018-02-16 13:23:07,175 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_BestPriceRule.png and the screenshot actual_shipper_CreateNewScenarios_BestPriceRule.png is 0%
+2018-02-16 13:23:07,335 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Best Price' rule page was loading: 0.063 seconds.
+2018-02-16 13:23:09,190 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_BestPriceRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_BestPriceRule.png is 5.11%
+2018-02-16 13:23:12,085 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - NUMBER of CARRIERS form page was loading: 0.352 seconds.
+2018-02-16 13:23:20,532 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_NumberOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_NumberOfCarriersRule.png is 0%
+2018-02-16 13:23:20,671 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after adding 'Number of Carriers' rule page was loading: 0.063 seconds.
+2018-02-16 13:23:22,576 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_Step2_NumberOfCarriersRule.png and the screenshot actual_shipper_CreateNewScenarios_Step2_NumberOfCarriersRule.png is 4.89%
+2018-02-16 13:23:24,399 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that Create New Rule - NUMBER of CARRIERS form page was loading: 0.358 seconds.
+2018-02-16 13:23:26,093 [12] INFO  CCXUITestsDemo.MainTests - Difference between the screenshot master_shipper_CreateNewScenarios_NumberOfCarriersRule.png and the screenshot actual_shipper_EditScenarios_NumberOfCarriersRule.png is 0.78%
+2018-02-16 13:23:26,361 [12] INFO  CCXUITestsDemo.MainTests - TOTAL TIME that OVERVIEW SCENARIOS tab - STEP#2 after closing 'Edit Scenarios - Number of Carriers' form page was loading: 0.074 seconds.
