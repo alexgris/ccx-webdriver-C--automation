@@ -44,7 +44,7 @@
 
   <!-- Parameters used by tests at runtime -->
   <TestRunParameters>
-    <Parameter name="Url" value="http://ccxdemo.softprise.net" />
+    <Parameter name="Url" value="http://test.net" />
    
     
     <Parameter name="TargetBrowser" value="ie" />
